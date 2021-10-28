@@ -2,7 +2,7 @@
 
 def run():
     LIMITE = 1000  #el resultado no podra superar este valor 
-    
+    contador_rama=0
     contador = 0 
     potencia_2 = 2**contador
     
