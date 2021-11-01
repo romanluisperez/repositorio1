@@ -1,6 +1,6 @@
 #Teoria de conjuntos
 A={1,2,3,4,5,9}
-B={4,5,6,0}
+B={4,5,6}
 C={4,6,7,8,5}
 print (A==B)
 print (A | B) #equivale a un or
